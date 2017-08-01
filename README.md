@@ -1,4 +1,4 @@
-#__Evolutionary genomics of recently-emerged Drosophila genes__#
+__Evolutionary genomics of recently-emerged Drosophila genes__
 
 
 Scripts for processing DPGP and DGRP data for evolutionary analyses
