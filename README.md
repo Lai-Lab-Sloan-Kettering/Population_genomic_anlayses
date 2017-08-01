@@ -1,8 +1,8 @@
-##### Population_genomic_anlayses
-###Scripts for processing DPGP and DGRP data for evolutionary analyses
+#####Population_genomic_anlayses
+#Scripts for processing DPGP and DGRP data for evolutionary analyses
 
 
-##Data
+#Data
 
 Drosophila melangoaster population genomic re-sequence data was downloaded from the Drosophila Genome Nexus database http://www.johnpool.net/genomes.html
 
