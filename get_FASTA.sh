@@ -18,7 +18,7 @@ echo changing ${strain} file ...
 
 echo `cat ${strain}\_${chr}.seq | sed "s/^/>${chr}\n/g" > ${strain}\_${chr}.fasta`
 
-## I noticed not all strains from DPGP2 have data for X chromosome, so I included only strained that had sequence data ##
+## I noticed not all strains from DPGP2 have data for X chromosome, so I included only strains that had sequence data ##
 ## for X chromosome ##
 
 if [ -e ${strain}\_ChrX.fasta ]
