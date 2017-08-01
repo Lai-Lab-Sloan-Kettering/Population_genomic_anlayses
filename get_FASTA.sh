@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 
-### Script to obtain gene-by-gene FASTA for all D. melanogaster gene from DPGP and DGRP data. The script requires the ##
-### installation of BEDTOOLS in the PATH ###
+### Script to obtain gene-by-gene FASTA for all D. melanogaster genes from DPGP and DGRP data. The script requires ##
+### installation of BEDTOOLS in PATH ###
 
 
 ### read file containing strain identity for DGRP/DPGP lines ##
