@@ -20,4 +20,4 @@ Unpack the tar files in your local directory. The assembled genome re-sequence d
 
 __Get FASTA for each gene__
 
-
+Run `getFASTA.sh` script to obtain gene-by-gene FASTA files from DPGP and DGRP data
