@@ -1,3 +1,7 @@
+#######################################################
+#### modified from https://github.com/majensen/dnds ###
+#######################################################
+
 use Getopt::Std;
 use Cdn;
 # note: convert U to T, lower to upper case
