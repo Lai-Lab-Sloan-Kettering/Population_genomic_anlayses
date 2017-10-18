@@ -19,8 +19,7 @@
 #
 #		NOTE:  you will need to have the module Text::NSP to get the FET
 #
-#		please send any questions|error reports to akholloway at ucdavis dot edu
-#
+#		This script was modified from Begun et al. 2007, originally written by Alisha Holloway
 ###########################################################################
 
 use strict;
